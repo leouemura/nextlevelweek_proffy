@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 node_modules
+=======
+/node_modules
+/README.md
+>>>>>>> 3a69c0a4261524fc9ee5df11e52f063dcd0e17cf
